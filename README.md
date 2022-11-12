@@ -7,7 +7,7 @@
 </head>
 <body>
 	<h1>Instrumentos Musicais</h1>
-<p>Certeza que você ja teve aquele sonho, ou pelo menos já cogitou a ideia de ser, o melhor musicista?</p>
+<p>Certeza que você já teve aquele sonho, ou pelo menos já cogitou a ideia de ser, o melhor musicista?</p>
 <p>Aqui teremos informações e curiosidades que não saíba sobre diversos instrumentos, como:</p>
 <h4>Instrumentos de cordas-pinçadas(P) e friccionadas(F)</h4>
 <ul>
