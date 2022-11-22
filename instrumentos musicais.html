@@ -8,7 +8,7 @@
 <body>
 <header>
 	<h1 align="center">Instrumentos Musicais</h1>
-<img src="instrumentos musicais.webp">
+<img src="instrumentos musicais.png">
 </header>
 <p>Certeza que você ja teve aquele sonho, ou pelo menos já cogitou a ideia de ser, o melhor musicista?</p>
 <p>Aqui teremos informações e curiosidades que não saíba sobre diversos instrumentos, como:</p>
